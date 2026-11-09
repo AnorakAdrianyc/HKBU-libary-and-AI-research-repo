@@ -14,5 +14,7 @@ This repository serves as a reference directory for academic and research tools 
 * **Data & Quantitative Tools:** Research Data Services, CSDI stations, and citation management systems (EndNote).
 * **Open Exploration:** Guidance on open scholarly tools (Elicit, Connected Papers, Research Rabbit) and compliance guardrails.
 
+Website: https://cedar-ever-grove-lagoon.grok.me/
 ## Usage & Compliance
 Designed to provide transparent access notes regarding institutional subscriptions, ensuring proper handling of licensed full texts and adherence to academic integrity guidelines.
+
